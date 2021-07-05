@@ -15,3 +15,6 @@
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## リンク
+- [追加ページ](hoge.md)
